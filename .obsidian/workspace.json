@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "86fe36e5fe53aaff",
+        "id": "98db417bfa9fe390",
         "type": "tabs",
         "children": [
           {
-            "id": "15cef57367330e76",
+            "id": "ad661aabbe9c8b7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault.md",
+                "file": "Welt/Fauna/Hornkiefer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ca7dab147b25000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welt/Objekte/Portlampe.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault.md",
+                "file": "Welt/Objekte/Portlampe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault.md",
+                "file": "Welt/Objekte/Portlampe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault.md"
+                "file": "Welt/Objekte/Portlampe.md"
               }
             }
           },
@@ -158,8 +171,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "15cef57367330e76",
+  "active": "1ca7dab147b25000",
   "lastOpenFiles": [
+    "Welt/Objekte/Essenz der Magie.md",
+    "Welt/Objekte/Konsumgüter/Gelbglut.md",
+    "Welt/Fauna/Hornkiefer.md",
+    "Welt/Fauna/Kondor.md",
+    "Welt/Fauna/Liste der Kreaturen.md",
+    "Welt/Flora/Liste wichtiger Pflanzen.md",
+    "Welt/Regionen/Grosse Steppe.md",
+    "Regeln/Inspektion.md",
+    "Welt/Objekte/Konsumgüter",
+    "Welt/Objekte/Portlampe.md",
+    "Regeln/Flüche.md",
+    "Flüchen.md",
+    "Regeln",
+    "Welt/Fraktionen/Tocanotl.md",
+    "Welt/Regionen/Liste der Regionen.md",
+    "Welt/Fraktionen/Untitled.md",
+    "Welt/Fraktionen",
+    "Welt/Konzept.md",
+    "Welt/Regionen",
+    "Welt/Objekte",
+    "Welt/Fauna",
+    "Welt/Flora",
+    "test/Arlington Map.md",
+    "Welt",
+    "test/Arlington.png",
+    "test",
     "Vault.md"
   ]
 }
